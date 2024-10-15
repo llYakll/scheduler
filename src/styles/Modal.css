@@ -1,0 +1,12 @@
+.modal {
+    position: fixed;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    background-color: white;
+    padding: 2rem;
+    box-shadow: 0rem 0.4rem 1rem rgba(0, 0, 0, 0.1);
+    max-width: 90vw;
+    width: 30rem;
+  }
+  
